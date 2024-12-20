@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 5,
+      "product_url": "iphone16",
+      "product_name": "iPhone 16",
+      "description_id": 3,
+      "product_brief_description": "Apple Intelligence available now",
+      "product_description": "The first iPhone built\r\nfor Apple Intelligence.\r\nPersonal, private,\r\npowerful",
+      "product_img": "https://www.apple.com/v/iphone-16/d/images/overview/design/hero_top_hw__gkalwc05fi62_large_2x.png",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-16",
+      "price_id": 5,
+      "starting_price": "From $799 ",
+      "price_range": "or $33.29/mo. for 24 mo."
+    },
+    {
+      "product_id": 8,
+      "product_url": "iphone16pro",
+      "product_name": "iPhone 16 Pro",
+      "description_id": 4,
+      "product_brief_description": "The ultimate iPhone.",
+      "product_description": "The first iPhone built\r\nfor Apple Intelligence.\r\nPersonal, private,\r\npowerful.",
+      "product_img": "https://www.apple.com/v/iphone-16-pro/d/images/overview/product-stories/design/display__f5509jfp9nyq_large_2x.jpg",
+      "product_link": "https://www.apple.com/iphone-se/",
+      "price_id": 8,
+      "starting_price": "From $999",
+      "price_range": "or $41.62/mo. for 24 mo."
+    },
+    {
+      "product_id": 14,
+      "product_url": "iphonese",
+      "product_name": "iPhone SE",
+      "description_id": 7,
+      "product_brief_description": "Thanks to incredible water resistance",
+      "product_description": "iPhone SE shrugs off spills from common liquids such as water, soda, coffee, tea, and juice. And it’s certainly not bothered by a little dust, either.",
+      "product_img": "https://www.apple.com/v/iphone-se/l/images/overview/durability/spills/spills_device__gnhuaoogn52e_large_2x.jpg",
+      "product_link": "https://www.apple.com/iphone-se/",
+      "price_id": 14,
+      "starting_price": "From $429 ",
+      "price_range": "or $17.87/mo. for 24 mo."
+    }
+  ]
+}
