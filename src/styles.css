@@ -311,95 +311,73 @@ body {
   font-weight: 700;
   font-size: 45px;
 }
-/*Media Query*/
-/* Footer */
 @media (max-width: 768px) {
-  .footer-links-wrapper ul {
-    display: none;
+  body {
+    font-size: 16px;
   }
-  .footer-links-wrapper h3 {
-    padding: 10px 0;
-    border-bottom: 1px solid #ccc;
+
+  .header-wrapper {
+    font-size: 0.9em;
   }
-  .footer-links-wrapper h3:after {
-    font-family: "FontAwesome";
-    content: "\f067";
-    padding-left: 10px;
-    position: absolute;
-    right: 25px;
+
+  .header-wrapper ul {
+    flex-direction: column;
+    align-items: center;
   }
-}
-@media (min-width: 768px) {
-  /*Nav bar*/
-  .nav-item {
-    text-align: center !important;
+
+  .internal-wrapper {
+    width: 90%;
     padding: 0;
-    border-bottom: 0px;
   }
-  /*Footer styling*/
-  .my-apple-wrapper {
-    border-bottom: 1px solid #d2d2d7;
+
+  .footer-links-wrapper {
+    flex-direction: column;
+    align-items: center;
   }
-  /*Sixth section*/
-  .sixth-highlight-wrapper .left-side-wrapper .left-side-container {
-    margin: 5px 5px 10px 10px;
+
+  .footer-wrapper ul li {
+    font-size: 0.8em;
+    text-align: center;
   }
-  .sixth-highlight-wrapper .right-side-wrapper .right-side-container {
-    margin: 5px 10px 10px 5px;
+
+  .main-highlight-wrapper .product-title,
+  .second-highlight-wrapper .title-wraper,
+  .third-highlight-wrapper .title-wraper,
+  .product-title-small {
+    font-size: 32px;
   }
-  .sixth-highlight-wrapper .links-wrapper {
-    max-width: 500px;
+
+  .main-highlight-wrapper .brief-description,
+  .second-highlight-wrapper .description-wrapper,
+  .third-highlight-wrapper .description-wrapper {
+    font-size: 1.2em;
   }
-  /*Fifth section*/
-  .fifth-highlight-wrapper .left-side-wrapper .left-side-container {
-    margin: 5px 5px 5px 10px;
+
+  .links-wrapper ul li {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
   }
-  .fifth-highlight-wrapper .right-side-wrapper .right-side-container {
-    margin: 5px 10px 5px 5px;
+
+  .fourth-highlight-wrapper,
+  .fifth-highlight-wrapper,
+  .sixth-highlight-wrapper {
+    flex-direction: column;
   }
-  /*fourth section*/
-  .fourth-highlight-wrapper .left-side-wrapper .left-side-container {
-    margin: 10px 5px 5px 10px;
+
+  .left-side-wrapper,
+  .right-side-wrapper {
+    width: 100%;
+    margin: 0;
+    padding-top: 20px;
   }
-  .fourth-highlight-wrapper .right-side-wrapper .right-side-container {
-    margin: 10px 10px 5px 5px;
+
+  .description-wrapper {
+    max-width: 90%;
   }
-  .title-wraper.bold {
-    font-size: 56px;
-  }
-  /* Second section */
-  .second-hightlight-wrapper {
-    min-height: 692px;
-    background-image: url("../images/home/macbookair-new.jpg");
-  }
-  .new-alert {
-    color: #bf4801;
-    font-size: 18px;
-  }
-  /* First section */
-  .first-hightlight-wrapper {
-    background-image: url("../images/home/ipodPronew.jpg");
-    min-height: 692px;
-  }
-  .ipod-caption {
-    padding-top: 415px;
-  }
-  /*Alert section*/
-  .alert-text {
-    max-width: 85%;
-    margin: 0 auto;
-  }
-}
-@media (min-width: 992px) {
-  /*Footer styling*/
-  .copyright {
-    margin-top: 10px;
-  }
-  .footer-country {
-    margin-top: 10px;
-  }
-  .footer-links-terms {
-    margin-top: 10px;
+
+  .tvshow-logo-wrapper {
+    padding: 120px 0;
   }
 }
 
@@ -410,7 +388,7 @@ body {
 }
 
 /* Title Section */
-.title-wraper {
+.title-wrapper {
   font-size: 2.5rem;
   color: #333;
   margin-bottom: 15px;
