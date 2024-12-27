@@ -835,6 +835,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
 }
 
 .nav-wrapper {
@@ -844,12 +845,12 @@ body {
   padding: 10px 20px;
   max-width: 1200px;
   margin: 0 auto;
+  height: 44px;
 }
 
 /* Logo Styling */
 .logo img {
-  width: 28px;
-  height: 25px;
+  height: 16px;
 }
 
 /* Navigation Links */
@@ -868,7 +869,6 @@ body {
   color: #fff;
   text-decoration: none;
   font-size: 14px;
-  text-transform: capitalize;
   display: flex;
   align-items: center;
   gap: 5px;
@@ -877,7 +877,7 @@ body {
 .nav-links li a img {
   width: 16px;
   height: 16px;
-  /* filter: invert(100%); Make icons white */
+  color: #fff;
 }
 
 .nav-links li a:hover {
@@ -936,10 +936,9 @@ body {
 }
 
 .nav-links li:hover img {
-  filter: invert(80%);
+  color: #999;
 }
 .search-img .cart-img .logo-img {
   color: #fff;
-  width: 18px;
-  height: 25px;
+  height: 16px;
 }
