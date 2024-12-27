@@ -841,7 +841,6 @@ body {
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 10px 20px;
   max-width: 1200px;
   margin: 0 auto;
@@ -872,6 +871,7 @@ body {
   display: flex;
   align-items: center;
   gap: 5px;
+  opacity: 0.8;
 }
 
 .nav-links li a img {
