@@ -9,7 +9,7 @@ import Section from "./Components/Section/Section";
 // Pages
 import Mac from "./Pages/Mac/Mac";
 import Ipad from "./Pages/Ipad/Ipad";
-import Iphone from "./Pages/Iphone/iphone";
+import Iphone from "./Pages/Iphone/Iphone";
 import Watch from "./Pages/Watch/Watch";
 import TV from "./Pages/TV/TVandHome";
 import Four04 from "./Pages/Four04/Four04";
