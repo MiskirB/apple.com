@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "apple-watch-ultra-2",
+      "product_name": "Apple Watch Ultra 2",
+      "description_id": 1,
+      "product_brief_description": "Adventure awaits.",
+      "product_description": "Apple Watch Ultra 2 is rugged, capable, and built for the most extreme activities, with the brightest display ever and precision dual-frequency GPS.",
+      "product_img": "https://www.apple.com/v/apple-watch-ultra-2/f/images/overview/design/design__b9gbjygmamxe_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-watch/apple-watch-ultra-2",
+      "price_id": 1,
+      "starting_price": "From $799",
+      "price_range": "or $33.29/mo. for 24 mo."
+    },
+    {
+      "product_id": 2,
+      "product_url": "apple-watch-series-10",
+      "product_name": "Apple Watch Series 10",
+      "description_id": 2,
+      "product_brief_description": "Thinstant classic.",
+      "product_description": "Featuring the powerful S9 SiP, a brighter display, and innovative new ways to stay connected, Apple Watch Series 9 is the most advanced Apple Watch yet.",
+      "product_img": "https://www.apple.com/v/apple-watch-series-10/c/images/overview/finishes-aluminum/gallery/finish_alum_black_02__bu7sw1szt336_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-watch/apple-watch-series-10",
+      "price_id": 2,
+      "starting_price": "From $399",
+      "price_range": "or $16.62/mo. for 24 mo."
+    },
+    {
+      "product_id": 3,
+      "product_url": "apple-watch-se",
+      "product_name": "Apple Watch SE",
+      "description_id": 3,
+      "product_brief_description": "A great deal to love.",
+      "product_description": "Apple Watch SE delivers essential features to help you stay connected, active, and healthy, at a price you’ll love.",
+      "product_img": "https://www.apple.com/v/apple-watch-se/r/images/overview/hero/hero__f76n0zejlxqq_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-watch/apple-watch-se",
+      "price_id": 3,
+      "starting_price": "From $249",
+      "price_range": "or $10.37/mo. for 24 mo."
+    },
+    {
+      "product_id": 4,
+      "product_url": "apple-watch-hermes",
+      "product_name": "Apple Watch Hermès",
+      "description_id": 4,
+      "product_brief_description": "Design and function. Inspired by the sea.",
+      "product_description": "Apple Watch Hermès pairs the innovations of Apple Watch with the craftsmanship of Hermès for an iconic design.",
+      "product_img": "https://www.apple.com/v/apple-watch-hermes/ag/images/hardware/hero__s4fxk2fncz2a_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-watch/apple-watch-hermes",
+      "price_id": 4,
+      "starting_price": "From $1,299",
+      "price_range": "Custom pricing options available."
+    }
+  ]
+}

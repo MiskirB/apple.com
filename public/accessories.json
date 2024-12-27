@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "product_id": 2,
+      "product_url": "airpods-pro",
+      "product_name": "AirPods Pro (2nd generation)",
+      "description_id": 2,
+      "product_brief_description": "Active Noise Cancellation.",
+      "product_description": "AirPods Pro deliver superior Active Noise Cancellation, immersive sound, and a comfortable fit. Perfect for all-day listening with up to 6 hours of battery life.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-2-hero-select-202409?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1724041669458",
+      "product_link": "https://www.apple.com/airpods-pro/",
+      "price_id": 2,
+      "starting_price": "$249",
+      "price_range": ""
+    },
+    {
+      "product_id": 3,
+      "product_url": "apple-watch-bands",
+      "product_name": "Apple Watch Bands",
+      "description_id": 3,
+      "product_brief_description": "Bands for every style.",
+      "product_description": "From sporty to stylish, Apple Watch bands are designed to fit every personality. Choose from leather, silicone, and woven styles for a comfortable fit.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-bands-202409?wid=2880&hei=960&fmt=jpeg&qlt=90&.v=1724470153744",
+      "product_link": "https://www.apple.com/apple-watch-bands/",
+      "price_id": 3,
+      "starting_price": "$49",
+      "price_range": "Prices vary by material and design."
+    },
+    {
+      "product_id": 4,
+      "product_url": "mac-accessories",
+      "product_name": "Mac Accessories",
+      "description_id": 4,
+      "product_brief_description": "Essential tools for Mac.",
+      "product_description": "Find the perfect accessories for your Mac, including the Magic Mouse, Magic Keyboard, and trackpads to enhance your productivity and comfort.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MW2H3?wid=532&hei=582&fmt=png-alpha&.v=1711733998662",
+      "product_link": "https://www.apple.com/mac-accessories/",
+      "price_id": 4,
+      "starting_price": "$79",
+      "price_range": "Prices vary by accessory."
+    },
+    {
+      "product_id": 5,
+      "product_url": "iphone-cases",
+      "product_name": "iPhone Cases",
+      "description_id": 5,
+      "product_brief_description": "Protect your iPhone in style.",
+      "product_description": "Choose from a wide variety of iPhone cases that offer protection and style. From leather to silicone, Apple has the perfect case for your iPhone.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MA7F4_FV447?wid=1420&hei=930&fmt=png-alpha&.v=1724090239657",
+      "product_link": "https://www.apple.com/iphone-cases/",
+      "price_id": 5,
+      "starting_price": "$39",
+      "price_range": "Prices vary by material and design."
+    },
+    {
+      "product_id": 6,
+      "product_url": "beats",
+      "product_name": "Beats by Dre",
+      "description_id": 6,
+      "product_brief_description": "High-performance audio.",
+      "product_description": "Experience powerful sound with Beats headphones and earphones. Engineered for all-day comfort, they deliver deep bass, immersive sound, and a sleek design.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQTR3?wid=532&hei=582&fmt=png-alpha&.v=1687660671097",
+      "product_link": "https://www.apple.com/beats/",
+      "price_id": 6,
+      "starting_price": "$159.99",
+      "price_range": "Prices vary by model."
+    }
+  ]
+}

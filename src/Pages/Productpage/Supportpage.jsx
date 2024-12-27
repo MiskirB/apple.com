@@ -2,13 +2,13 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Four04 from "../Four04/Four04";
 
-function Productpage() {
+function Supportpage() {
   const { ProductID } = useParams(); // Get ProductID from the URL
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
     // fetch("http://localhost:3001/iphones")
-    fetch("/iphone.json")
+    fetch("/support.json")
       .then((res) => res.json())
       .then((data) => {
         const productList = data.products;
@@ -74,4 +74,4 @@ function Productpage() {
   }
 }
 
-export default Productpage;
+export default Supportpage;

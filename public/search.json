@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "iPhone 16",
+      "product_brief_description": "Apple Intelligence available now",
+      "product_img": "https://www.apple.com/v/iphone-16/d/images/overview/design/hero_top_hw__gkalwc05fi62_large_2x.png",
+      "starting_price": "From $799"
+    },
+    {
+      "product_id": 2,
+      "product_name": "MacBook Pro",
+      "product_brief_description": "The ultimate pro notebook",
+      "product_img": "https://www.apple.com/v/mac/home/cb/images/overview/select/product_tile_mbp_14_16__bkl8zusnkpw2_large_2x.png",
+      "starting_price": "From $1,999"
+    },
+    {
+      "product_id": 3,
+      "product_name": "iPad Air",
+      "product_brief_description": "Light. Bright. Full of might.",
+      "product_img": "https://www.apple.com/v/ipad-air/x/images/overview/highlights/overview__ftbt78x57ueu_large_2x.png",
+      "starting_price": "From $599"
+    },
+    {
+      "product_id": 4,
+      "product_name": "Apple Watch Ultra",
+      "product_brief_description": "Adventure awaits.",
+      "product_img": "https://www.apple.com/v/apple-watch-ultra-2/f/images/overview/design/design__b9gbjygmamxe_large_2x.jpg",
+      "starting_price": "From $799"
+    },
+    {
+      "product_id": 5,
+      "product_name": "AirPods Pro",
+      "product_brief_description": "Active Noise Cancellation for immersive sound.",
+      "product_img": "https://www.apple.com/v/airpods-pro/n/images/overview/noise_cancel_airpod__bewzeymccxxu_large_2x.jpg",
+      "starting_price": "From $249"
+    },
+    {
+      "product_id": 6,
+      "product_name": "Apple Vision Pro",
+      "product_brief_description": "A new dimension of possibilities.",
+      "product_img": "https://www.apple.com/v/apple-vision-pro/f/images/overview/hero/hero_us_startframe__bj4ciwxazquq_large_2x.jpg",
+      "starting_price": "From $3,499"
+    },
+    {
+      "product_id": 7,
+      "product_name": "Apple TV 4K",
+      "product_brief_description": "The ultimate cinematic experience.",
+      "product_img": "https://www.apple.com/v/apple-tv-4k/ak/images/overview/router/apple_tv_app_new__d96grv6awv8m_large_2x.jpg",
+      "starting_price": "From $129"
+    },
+    {
+      "product_id": 8,
+      "product_name": "Magic Keyboard",
+      "product_brief_description": "The perfect companion for iPad Pro and iPad Air.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MXK83?wid=532&hei=582&fmt=png-alpha&.v=1729881960157",
+      "starting_price": "From $299"
+    }
+  ]
+}

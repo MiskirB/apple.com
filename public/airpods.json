@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "airpods-4",
+      "product_name": "AirPods 4 ",
+      "description_id": 1,
+      "product_brief_description": "The next evolution of sound and comfort.",
+      "product_description": "Immersive, theater-like sound.Personalized Spatial Audio with dynamic head tracking2 places sound all around you, creating a three-dimensional listening experience for music, TV shows, movies, games, and more.",
+      "product_img": "https://www.apple.com/v/airpods-4/b/images/overview/bento-gallery/bento_case_open__63kccmu775u6_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-airpods/airpods-4",
+      "price_id": 1,
+      "starting_price": "Starting at $129 With Active Noise Cancellation $179",
+      "price_range": "or $10.37/mo. for 24 mo."
+    },
+    {
+      "product_id": 2,
+      "product_url": "airpods-pro",
+      "product_name": "AirPods Pro 2",
+      "description_id": 2,
+      "product_brief_description": "The world’s first all-in-one hearing health experience.",
+      "product_description": "The Apple-designed H2 chip is the force behind the advanced audio performance of AirPods Pro 2, working with the driver and amplifier to create crisp, high-definition sound. It uses computational algorithms to deliver noise cancellation, superior three-dimensional sound, efficient battery life, and imperceivable end-to-end wireless audio latency for games — all at once.",
+      "product_img": "https://www.apple.com/v/airpods-pro/n/images/overview/noise_cancel_airpod__bewzeymccxxu_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-airpods/airpods-pro-2",
+      "price_id": 2,
+      "starting_price": "from $249.00",
+      "price_range": "$41.50/mo.per month for 6 mo."
+    },
+    {
+      "product_id": 4,
+      "product_url": "airpods-max",
+      "product_name": "AirPods Max",
+      "description_id": 4,
+      "product_brief_description": "An entirely new over-ear experience.",
+      "product_description": "AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation for an unparalleled listening experience.",
+      "product_img": "https://www.apple.com/v/airpods-max/h/images/overview/bento/midnight/bento_1_airpod_max_midnight__4jy1tkqh9qay_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-airpods/airpods-max",
+      "price_id": 4,
+      "starting_price": "From $549",
+      "price_range": "or $22.87/mo. for 24 mo."
+    }
+  ]
+}

@@ -9,30 +9,31 @@ import newipad from "../../assets/images/icons/new-ipad-logo.png";
 const Section = () => {
   return (
     <div className="main-highlight-wrapper">
-      <div className="internal-wrapper">
-        <div className="model">16-inch model</div>
+      <div className="container">
+        <div className="internal-wrapper">
+          <div className="model">16-inch model</div>
 
-        <div className="product-title">MacBook Pro</div>
+          <div className="product-title">MacBook Pro</div>
 
-        <div className="brief-description">The best for the brightest.</div>
+          <div className="brief-description">The best for the brightest.</div>
 
-        <div className="links-wrapper">
-          <ul>
-            <li>
-              <a href="">Learn more</a>
-            </li>
-            <li>
-              <a href="">Buy</a>
-            </li>
-          </ul>
+          <div className="links-wrapper">
+            <ul>
+              <li>
+                <a href="">Learn more</a>
+              </li>
+              <li>
+                <a href="">Buy</a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="main-image-wrapper">
+            <img src={laptop} />
+          </div>
         </div>
-
-        <div className="main-image-wrapper">
-          <img src={laptop} />
-        </div>
+        <div />
       </div>
-      <div />
-
       <div className="second-highlight-wrapper">
         <div className="internal-wrapper">
           <div className="title-wrapper">iPhone 11 Pro</div>

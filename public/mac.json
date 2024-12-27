@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "macbook-air-15",
+      "product_name": "MacBook Air 15\"",
+      "description_id": 1,
+      "product_brief_description": "Impossibly thin. Impressively big.",
+      "product_description": "MacBook Air 15\" combines a spacious Liquid Retina display with incredible performance in an ultra-portable design.",
+      "product_img": "https://www.apple.com/v/macbook-air/s/images/overview/design/lifestyle-gallery/design_portability_4__glz4ji8zheqi_large_2x.jpg",
+      "product_link": "https://www.apple.com/macbook-air-15/",
+      "price_id": 1,
+      "starting_price": "From $1,299",
+      "price_range": "or $108.25/mo. for 12 mo."
+    },
+    {
+      "product_id": 2,
+      "product_url": "macbook-pro-14-16",
+      "product_name": "MacBook Pro 14\" and 16\"",
+      "description_id": 2,
+      "product_brief_description": "Pro power, everywhere.",
+      "product_description": "The most powerful MacBook Pro ever is here. With the blazing-fast M3 Pro and M3 Max chips, it delivers exceptional performance for pros.",
+      "product_img": "https://www.apple.com/v/mac/home/cb/images/overview/select/product_tile_mbp_14_16__bkl8zusnkpw2_large_2x.png",
+      "product_link": "https://www.apple.com/macbook-pro-14-and-16/",
+      "price_id": 2,
+      "starting_price": "From $1,999",
+      "price_range": "or $166.58/mo. for 12 mo."
+    },
+    {
+      "product_id": 3,
+      "product_url": "mac-mini",
+      "product_name": "Mac mini",
+      "description_id": 3,
+      "product_brief_description": "Small chip. Giant leap.",
+      "product_description": "With M2 and M2 Pro chips, Mac mini delivers phenomenal performance in a compact design.",
+      "product_img": "https://www.apple.com/v/mac-mini/x/images/overview/welcome/hero_endframe__d9kro8y76v42_large_2x.jpg",
+      "product_link": "https://www.apple.com/mac-mini/",
+      "price_id": 3,
+      "starting_price": "From $599",
+      "price_range": "or $49.91/mo. for 12 mo."
+    },
+    {
+      "product_id": 4,
+      "product_url": "mac-studio",
+      "product_name": "Mac Studio",
+      "description_id": 4,
+      "product_brief_description": "Outrageous performance.",
+      "product_description": "Powered by M2 Max and M2 Ultra, Mac Studio is the most powerful Mac ever for creatives.",
+      "product_img": "https://www.apple.com/v/mac-studio/f/images/overview/studio-display/studio_display_hero__dgkv6a2kn0q6_large_2x.jpg",
+      "product_link": "https://www.apple.com/mac-studio/",
+      "price_id": 4,
+      "starting_price": "From $1,999",
+      "price_range": "or $166.58/mo. for 12 mo."
+    }
+  ]
+}

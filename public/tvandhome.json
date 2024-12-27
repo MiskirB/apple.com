@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "apple-tv-4k",
+      "product_name": "Apple TV 4K",
+      "description_id": 1,
+      "product_brief_description": "The ultimate cinematic experience.",
+      "product_description": "Apple TV 4K brings the best of TV together with your favorite Apple devices and services. Watch in stunning 4K Dolby Vision and Dolby Atmos sound.",
+      "product_img": "https://www.apple.com/v/apple-tv-4k/ak/images/overview/router/apple_tv_app_new__d96grv6awv8m_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-tv-4k/",
+      "price_id": 1,
+      "starting_price": "From $129",
+      "price_range": "Buy now or pay monthly with financing."
+    },
+    {
+      "product_id": 2,
+      "product_url": "homepod",
+      "product_name": "HomePod",
+      "description_id": 2,
+      "product_brief_description": "High-fidelity audio that surrounds you.",
+      "product_description": "HomePod features breakthrough sound quality with spatial audio, intelligent Siri integration, and a seamless smart home experience.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-select-202210?wid=1080&hei=1080&fmt=jpeg&qlt=90&.v=1670557209908",
+      "product_link": "https://www.apple.com/homepod/",
+      "price_id": 2,
+      "starting_price": "From $299",
+      "price_range": "Available in Midnight and White."
+    },
+    {
+      "product_id": 3,
+      "product_url": "homepod-mini",
+      "product_name": "HomePod mini",
+      "description_id": 3,
+      "product_brief_description": "Big sound in a small space.",
+      "product_description": "HomePod mini delivers impressive sound, works seamlessly with your Apple devices, and is the perfect size for every room in the house.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-202210?wid=1080&hei=880&fmt=jpeg&qlt=90&.v=1720816295293",
+      "product_link": "https://www.apple.com/homepod-mini/",
+      "price_id": 3,
+      "starting_price": "From $99",
+      "price_range": "Available in multiple colors."
+    },
+    {
+      "product_id": 4,
+      "product_url": "apple-tv-plus",
+      "product_name": "Apple TV+",
+      "description_id": 4,
+      "product_brief_description": "Award-winning Apple Originals.",
+      "product_description": "Stream groundbreaking series, compelling dramas, and big-budget movies exclusively on Apple TV+. Enjoy your favorites on any Apple device or smart TV.",
+      "product_img": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a5/72/05/a5720509-6ce8-ce6a-fe6f-06b30f696059/d7dcc239-634c-4290-b75c-98b0c9a57a13.png/2638x990sr.webp",
+      "product_link": "https://www.apple.com/apple-tv-plus/",
+      "price_id": 4,
+      "starting_price": "Free for 3 months with eligible device purchase",
+      "price_range": "$6.99/month after free trial."
+    },
+    {
+      "product_id": 5,
+      "product_url": "apple-airplay",
+      "product_name": "AirPlay",
+      "description_id": 5,
+      "product_brief_description": "Share. Watch. Control.",
+      "product_description": "AirPlay makes it easy to share videos, photos, music, and more from your Apple devices to your favorite smart TVs and speakers.",
+      "product_img": "https://www.apple.com/v/airplay/o/images/overview/mirror_it_2024__cmzqzo27qi82_large_2x.jpg",
+      "product_link": "https://www.apple.com/airplay/",
+      "price_id": 5,
+      "starting_price": "",
+      "price_range": "No additional cost — built into your devices."
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-function Ipad() {
+function Entertainment() {
   const [products, setProducts] = useState([]);
   useEffect(() => {
     // fetch("http://localhost:3001/iphones")
-    fetch("/ipad.json")
+    fetch("/entertainment.json")
       .then((res) => res.json())
       .then((products) => {
         const product = products.products;
@@ -19,9 +19,9 @@ function Ipad() {
         <div className="container">
           <div className="row justify-content-center text-center">
             <div className="col-12 mt-5">
-              <div className="title-wraper font-weight-bold">iPad</div>
+              <div className="title-wraper font-weight-bold">Entertainment</div>
               <div className="brief-description">
-                Touch, draw, and type on one magical device.
+                Meet the A-list of entertainment.
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ function Ipad() {
             let Brief = product.product_brief_description;
             let StartPrice = product.starting_price;
             let PriceRange = product.price_range;
-            let productPage = "/ipad/" + id;
+            let productPage = "/entertainment/" + id;
             let order1 = 1;
             let order2 = 2;
             if (order !== 1) {
@@ -79,4 +79,4 @@ function Ipad() {
   );
 }
 
-export default Ipad;
+export default Entertainment;

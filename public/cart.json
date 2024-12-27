@@ -1,0 +1,25 @@
+{
+  "cart_items": [
+    {
+      "item_id": 1,
+      "product_name": "iPhone 16",
+      "product_img": "https://www.apple.com/v/iphone-16/d/images/overview/design/hero_top_hw__gkalwc05fi62_large_2x.png",
+      "product_price": 799,
+      "quantity": 1
+    },
+    {
+      "item_id": 2,
+      "product_name": "MacBook Pro",
+      "product_img": "https://www.apple.com/v/mac/home/cb/images/overview/select/product_tile_mbp_14_16__bkl8zusnkpw2_large_2x.png",
+      "product_price": 1999,
+      "quantity": 1
+    },
+    {
+      "item_id": 3,
+      "product_name": "AirPods Pro",
+      "product_img": "https://www.apple.com/v/airpods-pro/n/images/overview/noise_cancel_airpod__bewzeymccxxu_large_2x.jpg",
+      "product_price": 249,
+      "quantity": 2
+    }
+  ]
+}

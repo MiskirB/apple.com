@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphone-15",
+      "product_name": "iPhone 15",
+      "description_id": 1,
+      "product_brief_description": "Dynamic Island. All-day battery life.",
+      "product_description": "With a stunning design and powerful A16 Bionic chip, iPhone 15 redefines performance and innovation.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-1-202309_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1693346853617",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "price_id": 1,
+      "starting_price": "From $799",
+      "price_range": "or $33.29/mo. for 24 mo."
+    },
+    {
+      "product_id": 2,
+      "product_url": "ipad-pro",
+      "product_name": "iPad Pro",
+      "description_id": 2,
+      "product_brief_description": "Your next computer is not a computer.",
+      "product_description": "Powered by the M2 chip, iPad Pro offers a revolutionary experience in performance and portability.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202404?wid=728&hei=666&fmt=jpeg&qlt=90&.v=1713308651643",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+      "price_id": 2,
+      "starting_price": "From $799",
+      "price_range": "or $66.58/mo. for 12 mo."
+    },
+    {
+      "product_id": 3,
+      "product_url": "apple-watch-series-10",
+      "product_name": "Apple Watch Series 10",
+      "description_id": 3,
+      "product_brief_description": "A healthy leap ahead.",
+      "product_description": "Advanced health sensors. Faster performance. Apple Watch Series 9 is the ultimate device for a healthy life.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s10-digitalmat-gallery-1-202409?wid=728&hei=666&fmt=png-alpha&.v=1725019651758",
+      "product_link": "https://www.apple.com/shop/buy-watch/apple-watch",
+      "price_id": 3,
+      "starting_price": "From $399",
+      "price_range": "or $33.25/mo. per monthfor 12 mo."
+    },
+    {
+      "product_id": 4,
+      "product_url": "airpods-pro",
+      "product_name": "AirPods Pro (2nd Generation)",
+      "description_id": 4,
+      "product_brief_description": "Rebuilt from the sound up.",
+      "product_description": "With breakthrough audio performance and even more active noise cancellation, AirPods Pro 2nd Gen is a game-changer.",
+      "product_img": "https://www.apple.com/v/airpods-pro/n/images/overview/noise_cancel_airpod__bewzeymccxxu_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/product/MQD83AM/A",
+      "price_id": 4,
+      "starting_price": "From $249",
+      "price_range": "or $10.37/mo. for 24 mo."
+    },
+    {
+      "product_id": 5,
+      "product_url": "apple-tv-4k",
+      "product_name": "Apple TV 4K",
+      "description_id": 5,
+      "product_brief_description": "The best of TV. And then some.",
+      "product_description": "Apple TV 4K brings the best shows, movies, and live sports — along with your favorite Apple services.",
+      "product_img": "https://www.apple.com/v/apple-tv-4k/ak/images/overview/router/apple_tv_app_new__d96grv6awv8m_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-tv/apple-tv-4k",
+      "price_id": 5,
+      "starting_price": "From $129",
+      "price_range": "or $5.37/mo. for 24 mo."
+    },
+    {
+      "product_id": 6,
+      "product_url": "macbook-air",
+      "product_name": "MacBook Air",
+      "description_id": 6,
+      "product_brief_description": "Light. Bright. Pro.",
+      "product_description": "With M2 and M3 chips, MacBook Air is faster, thinner, and lighter than ever before.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974970795",
+      "product_link": "https://www.apple.com/shop/buy-mac/macbook-air",
+      "price_id": 6,
+      "starting_price": "From $999",
+      "price_range": "or $83.25/mo. for 12 mo."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "apple-music",
+      "product_name": "Apple Music",
+      "description_id": 1,
+      "product_brief_description": "75 million songs. Ad-free.",
+      "product_description": "Stream over 75 million songs, curated playlists, and exclusive content. Download your favorites to listen offline, ad-free.",
+      "product_img": "https://www.apple.com/v/apple-music/ab/images/overview/classical__ervsgfavr48y_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-music/",
+      "price_id": 1,
+      "starting_price": "From $10.99/month",
+      "price_range": "Try free for 1 month."
+    },
+    {
+      "product_id": 2,
+      "product_url": "apple-arcade",
+      "product_name": "Apple Arcade",
+      "description_id": 2,
+      "product_brief_description": "Unlimited access to 200+ games.",
+      "product_description": "Enjoy over 200 premium games without ads or in-app purchases. Play on iPhone, iPad, Mac, and Apple TV.",
+      "product_img": "https://www.apple.com/v/apple-arcade/o/images/overview/gallery_super_fruit_ninja__n2jft2ukz36u_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-arcade/",
+      "price_id": 2,
+      "starting_price": "From $4.99/month",
+      "price_range": "Free trial available."
+    },
+    {
+      "product_id": 3,
+      "product_url": "apple-tv-plus",
+      "product_name": "Apple TV+",
+      "description_id": 3,
+      "product_brief_description": "Award-winning Apple Originals.",
+      "product_description": "Stream groundbreaking series, compelling dramas, and big-budget movies exclusively on Apple TV+.",
+      "product_img": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a5/72/05/a5720509-6ce8-ce6a-fe6f-06b30f696059/d7dcc239-634c-4290-b75c-98b0c9a57a13.png/2638x990sr.webp",
+      "product_link": "https://www.apple.com/apple-tv-plus/",
+      "price_id": 3,
+      "starting_price": "$6.99/month",
+      "price_range": "Free for 3 months with eligible device purchase."
+    },
+    {
+      "product_id": 4,
+      "product_url": "apple-books",
+      "product_name": "Apple Books",
+      "description_id": 4,
+      "product_brief_description": "Stories that stay with you.",
+      "product_description": "Browse millions of books and audiobooks from every genre. Enjoy curated recommendations and seamless reading across Apple devices.",
+      "product_img": "https://www.apple.com/v/apple-books/c/images/overview/audio_books__gnptwfxaw7mi_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-books/",
+      "price_id": 4,
+      "starting_price": "",
+      "price_range": "Prices vary by book or audiobook."
+    },
+    {
+      "product_id": 5,
+      "product_url": "apple-podcasts",
+      "product_name": "Apple Podcasts",
+      "description_id": 5,
+      "product_brief_description": "Hear the world’s stories.",
+      "product_description": "Discover and enjoy podcasts on every topic imaginable. Subscribe to premium channels for exclusive content and ad-free listening.",
+      "product_img": "https://www.apple.com/v/apple-podcasts/e/images/overview/subscriptions_iphone__enq6wlp5efue_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-podcasts/",
+      "price_id": 5,
+      "starting_price": "",
+      "price_range": "Free and premium options available."
+    }
+  ]
+}

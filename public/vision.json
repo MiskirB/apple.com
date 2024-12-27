@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "apple-vision-pro",
+      "product_name": "Apple Vision Pro",
+      "description_id": 1,
+      "product_brief_description": "The era of spatial computing is here.",
+      "product_description": "Apple Vision Pro blends digital content with your physical space, enabling you to interact with your world in ways never before possible.",
+      "product_img": "https://www.apple.com/v/apple-vision-pro/f/images/overview/hero/hero_us_startframe__bj4ciwxazquq_large_2x.jpg",
+      "product_link": "https://www.apple.com/apple-vision-pro/",
+      "price_id": 1,
+      "starting_price": "Starting at $3,499",
+      "price_range": "Available early 2024."
+    },
+    {
+      "product_id": 2,
+      "product_url": "vision-accessories",
+      "product_name": "Vision Pro Accessories",
+      "description_id": 2,
+      "product_brief_description": "Enhance your Vision Pro experience.",
+      "product_description": "Discover accessories like head straps, light seal customizations, and charging solutions designed exclusively for Vision Pro.",
+      "product_img": "https://www.apple.com/v/apple-vision-pro/f/images/overview/routers/accessories__et6yc9y3xvu6_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-accessories",
+      "price_id": 2,
+      "starting_price": "From $99",
+      "price_range": "Pricing varies by accessory."
+    }
+  ]
+}

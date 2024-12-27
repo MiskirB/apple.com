@@ -19,10 +19,8 @@ function Iphone() {
         <div className="container">
           <div className="row justify-content-center text-center">
             <div className="col-12 mt-5">
-              <div className="title-wraper font-weight-bold">Iphones</div>
-              <div className="brief-description">
-                The best for the brightest.
-              </div>
+              <div className="title-wraper font-weight-bold">iPhones</div>
+              <div className="brief-description">Designed to be loved.</div>
             </div>
           </div>
           {products?.map((product) => {

@@ -1,0 +1,93 @@
+{
+  "support_sections": [
+    {
+      "section_id": 1,
+      "section_title": "Get Support",
+      "section_description": "Find the help you need with Apple products, services, and more.",
+      "section_link": "https://support.apple.com",
+      "products": [
+        {
+          "product_id": 1,
+          "product_name": "iPhone Support",
+          "product_description": "Get help with iPhone setup, troubleshooting, and software updates.",
+          "product_link": "https://support.apple.com/iphone",
+          "icon_img": "https://support.apple.com/content/dam/edam/applecare/images/en_US/psp_content/content-block-lg-getstartediphone_2x.png"
+        },
+        {
+          "product_id": 2,
+          "product_name": "iPad Support",
+          "product_description": "Find solutions for iPad issues, including apps, hardware, and more.",
+          "product_link": "https://support.apple.com/ipad",
+          "icon_img": "https://support.apple.com/content/dam/edam/applecare/images/en_US/psp_content/content-block-lg-getstarted-ipad.png"
+        },
+        {
+          "product_id": 3,
+          "product_name": "Mac Support",
+          "product_description": "Get troubleshooting tips, updates, and more for your Mac.",
+          "product_link": "https://support.apple.com/mac",
+          "icon_img": "https://support.apple.com/content/dam/edam/applecare/images/en_US/PSPVideoThumbnails/How-to-update-macOS-on-your-Mac.png"
+        },
+        {
+          "product_id": 4,
+          "product_name": "Apple Watch Support",
+          "product_description": "Learn how to set up, use, and troubleshoot your Apple Watch.",
+          "product_link": "https://support.apple.com/apple-watch",
+          "icon_img": "https://support.apple.com/content/dam/edam/applecare/images/en_US/psp_content/content-block-lg-getstarted-watch.png"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_title": "Contact Support",
+      "section_description": "Contact Apple Support to get personalized assistance with any of your Apple products or services.",
+      "section_link": "https://support.apple.com/contact",
+      "contact_methods": [
+        {
+          "method_id": 1,
+          "method_name": "Chat with Apple Support",
+          "method_description": "Chat with an Apple Support specialist for quick help with your product or service.",
+          "method_link": "https://support.apple.com/chat"
+        },
+        {
+          "method_id": 2,
+          "method_name": "Call Apple Support",
+          "method_description": "Call Apple Support to speak with a representative and get help over the phone.",
+          "method_link": "https://support.apple.com/contact"
+        },
+        {
+          "method_id": 3,
+          "method_name": "Apple Support App",
+          "method_description": "Use the Apple Support app to get help, track repairs, and contact specialists directly.",
+          "method_link": "https://apps.apple.com/us/app/apple-support/id1130498044"
+        }
+      ]
+    },
+
+    {
+      "section_id": 4,
+      "section_title": "Repair and Service",
+      "section_description": "Find repair options, service locations, and track your device’s repair status.",
+      "section_link": "https://support.apple.com/repair",
+      "repair_methods": [
+        {
+          "method_id": 1,
+          "method_name": "Apple Store",
+          "method_description": "Visit an Apple Store for in-person repairs and service.",
+          "method_link": "https://www.apple.com/retail"
+        },
+        {
+          "method_id": 2,
+          "method_name": "Authorized Service Provider",
+          "method_description": "Find an authorized service provider near you for repairs.",
+          "method_link": "https://support.apple.com/find-service-provider"
+        },
+        {
+          "method_id": 3,
+          "method_name": "Mail-in Repair",
+          "method_description": "Send your device to Apple for repair.",
+          "method_link": "https://support.apple.com/repair/mail-in"
+        }
+      ]
+    }
+  ]
+}

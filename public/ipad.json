@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "ipad-pro",
+      "product_name": "iPad Pro",
+      "description_id": 1,
+      "product_brief_description": "Supercharged by M2.",
+      "product_description": "The ultimate iPad experience with the astonishing performance of the M2 chip, breathtaking Liquid Retina XDR display, and 5G capability.",
+      "product_img": "https://www.apple.com/v/ipad-pro/ar/images/overview/cameras/cameras_hero_endframe__et8su9pwr48y_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+      "price_id": 1,
+      "starting_price": "From $799",
+      "price_range": "or $33.29/mo. for 24 mo."
+    },
+    {
+      "product_id": 2,
+      "product_url": "ipad-air",
+      "product_name": "iPad Air",
+      "description_id": 2,
+      "product_brief_description": "Light. Bright. Full of might.",
+      "product_description": "Powered by the M1 chip, iPad Air is incredibly powerful and versatile, now in five gorgeous colors.",
+      "product_img": "https://www.apple.com/v/ipad-air/x/images/overview/highlights/overview__ftbt78x57ueu_large_2x.png",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "price_id": 2,
+      "starting_price": "From $599",
+      "price_range": "or $24.95/mo. for 24 mo."
+    },
+    {
+      "product_id": 3,
+      "product_url": "ipad-10-9",
+      "product_name": "iPad (10.9-inch)",
+      "description_id": 3,
+      "product_brief_description": "Lovable. Drawable. Magical.",
+      "product_description": "The redesigned iPad is more capable, more intuitive, and more fun, with a beautiful 10.9-inch Liquid Retina display.",
+      "product_img": "https://www.apple.com/v/ipad-10.9/d/images/overview/hero/hero__ecv967jz1y82_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-10-9",
+      "price_id": 3,
+      "starting_price": "From $449",
+      "price_range": "or $18.70/mo. for 24 mo."
+    },
+    {
+      "product_id": 4,
+      "product_url": "ipad-mini",
+      "product_name": "iPad mini",
+      "description_id": 4,
+      "product_brief_description": "Mini just got mightier.",
+      "product_description": "With the A15 Bionic chip and support for Apple Pencil (2nd generation), iPad mini is small, powerful, and fun.",
+      "product_img": "https://www.apple.com/v/ipad-mini/s/images/overview/hero/hero_endframe__gnx9z3uu3t6q_large_2x.png",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+      "price_id": 4,
+      "starting_price": "From $499",
+      "price_range": "or $20.79/mo. for 24 mo."
+    },
+    {
+      "product_id": 5,
+      "product_url": "ipad-9",
+      "product_name": "iPad (9th generation)",
+      "description_id": 5,
+      "product_brief_description": "Delightfully capable. Surprisingly affordable.",
+      "product_description": "With the A13 Bionic chip and a 10.2-inch Retina display, iPad (9th generation) is perfect for everyday tasks.",
+      "product_img": "https://www.apple.com/v/ipad/home/cm/images/overview/consider/fc_creativity__gcfv7x90x42u_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-ipad/ipad-9",
+      "price_id": 5,
+      "starting_price": "From $329",
+      "price_range": "or $13.70/mo. for 24 mo."
+    }
+  ]
+}
